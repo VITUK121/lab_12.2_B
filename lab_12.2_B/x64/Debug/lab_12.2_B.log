@@ -1,0 +1,3 @@
+﻿  lab_12.2_B.cpp
+C:\Users\VITUK\source\repos\lab_12.2_B\lab_12.2_B\lab_12.2_B.cpp(107,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  lab_12.2_B.vcxproj -> C:\Users\VITUK\source\repos\lab_12.2_B\x64\Debug\lab_12.2_B.exe

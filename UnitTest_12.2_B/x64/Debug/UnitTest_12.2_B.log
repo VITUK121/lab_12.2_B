@@ -1,0 +1,6 @@
+﻿  UnitTest_12.2_B.cpp
+C:\Users\VITUK\source\repos\lab_12.2_B\lab_12.2_B\lab_12.2_B.cpp(107,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest_12.2_B.cpp')
+  
+     Creating library C:\Users\VITUK\source\repos\lab_12.2_B\x64\Debug\UnitTest_12.2_B.lib and object C:\Users\VITUK\source\repos\lab_12.2_B\x64\Debug\UnitTest_12.2_B.exp
+  UnitTest_12.2_B.vcxproj -> C:\Users\VITUK\source\repos\lab_12.2_B\x64\Debug\UnitTest_12.2_B.dll
